@@ -1,2 +1,2 @@
 # Shopping-cart
-react, js, filter, reduce
+react, js, filter, reduce, bootstrap
